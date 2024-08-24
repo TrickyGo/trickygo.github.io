@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 I am currently a Ph.D. candidate at the Wangxuan Institute of Computer Technology, Peking University, China, under the supervision of Prof. Zhouhui Lian. 
-I received my master's degree from Peking University, China, in 2022. received my bachelor's degree from Xidian University, Xi'an, China, in 2019.
-My research interest includes computer graphics and computer vision, currently focusing on 3D AIGC and 3D scene reconstruction. 
+I received my master's degree from Peking University, China, in 2022. I received my bachelor's degree from Xidian University, Xi'an, China, in 2019.
+My research interests include computer graphics and computer vision, and I am currently focusing on 3D AIGC and 3D scene reconstruction. 
 
 News
 ======
@@ -20,23 +20,76 @@ News
 
 Publications 
 ======
-### Summary: [4篇CCF-A, 2篇SCI一区] [Total Citations: 200+]
 
-#### ACM SIGGRAPH Asia 2024 (CCF-A)
-**Guo Pu**, Yiming Zhao, and Zhouhui Lian. 2024. Pano2Room: Novel View Synthesis from a Single Indoor Panorama. In SIGGRAPH Asia 2024 Conference Papers (SA Conference Papers '24), December 3--6, 2024, Tokyo, Japan. ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3680528.3687616 
 
-#### ACM SIGGRAPH Asia 2023 (CCF-A)
-**Guo Pu**, Peng-Shuai Wang, and Zhouhui Lian. 2023. SinMPI: Novel View Synthesis from a Single Image with Expanded Multiplane Images. In SIGGRAPH Asia 2023 Conference Papers (SA Conference Papers ’23), December 12–15, 2023, Sydney, NSW, Australia. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3610548.3618155 
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: 0px solid white;"><img src="/images/Pano2Room.png" alt="图片描述" style="width:1000px;"/></td>
+    <td style="border: 0px solid white;">        
+        <strong>Pano2Room: Novel View Synthesis from a Single Indoor Panorama</strong><br>
+        ACM SIGGRAPH Asia 2024 (CCF-A)<br>
+        <strong>Guo Pu</strong>, Yiming Zhao, and Zhouhui Lian<br>
+        https://arxiv.org/pdf/2408.11413
+    </td>
+  </tr>
 
-#### TPAMI 2022 (CCF-A, SCI一区, IF=23.6)
-**G. Pu**, Y. Men, Y. Mao, Y. Jiang, W. -Y. Ma and Z. Lian, "Controllable Image Synthesis with Attribute-Decomposed GAN," in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), doi: 10.1109/TPAMI.2022.3161985. 
+  <tr>
+    <td style="border: 0px solid white;"><img src="/images/SinMPI.png" alt="图片描述" style="width:1000px;"/></td>
+    <td style="border: 0px solid white;">        
+        <strong>SinMPI: Novel View Synthesis from a Single Image with Expanded Multiplane Images</strong><br>
+        ACM SIGGRAPH Asia 2023 (CCF-A)<br>
+        <strong>Guo Pu</strong>, Peng-Shuai Wang, and Zhouhui Lian<br>
+        https://arxiv.org/pdf/2312.11037
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="border: 0px solid white;"><img src="/images/ADGANPP.png" alt="图片描述" style="width:1000px;"/></td>
+    <td style="border: 0px solid white;">        
+        <strong>Controllable Image Synthesis with Attribute-Decomposed GAN</strong><br>
+        IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2022, CCF-A, SCI一区, IF=23.6) <br>
+        <strong>Guo Pu</strong>, Y. Men, Y. Mao, Y. Jiang, W. -Y. Ma and Z. Lian<br>
+        https://ieeexplore.ieee.org/abstract/document/9741362
+    </td>
+  </tr>
 
-#### CVPR 2022 (CCF-A)
-Y. Wang, **G. Pu**, Z. Lian, "Aesthetic Text Logo Synthesis via Content-aware Layout Inferring" Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2022. 
+  <tr>
+    <td style="border: 0px solid white;"><img src="/images/layoutnet.png" alt="图片描述" style="width:1000px;"/></td>
+    <td style="border: 0px solid white;">        
+        <strong>Aesthetic Text Logo Synthesis via Content-aware Layout Inferring</strong><br>
+        CVPR 2022 (CCF-A) <br>
+        Y. Wang, <strong>Guo Pu</strong>, and Z. Lian<br>
+        https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Aesthetic_Text_Logo_Synthesis_via_Content-Aware_Layout_Inferring_CVPR_2022_paper.pdf
+    </td>
+  </tr>  
 
-#### TST 2019 (SCI一区, IF=6.6) [Over 100 citations, 期刊高引用量前20论文, 2022年度优秀论文]
-**G. Pu**, Wang L, Shen J, et al. A hybrid unsupervised clustering-based anomaly detection method[J]. Tsinghua Science and Technology, 2020, 26(2): 146-153. 
+  <tr>
+    <td style="border: 0px solid white;"><img src="/images/SSC-OCSVM.png" alt="图片描述" style="width:1000px;"/></td>
+    <td style="border: 0px solid white;">        
+        <strong>A hybrid unsupervised clustering-based anomaly detection method</strong><br>
+        TST 2019 (SCI一区, IF=6.6) [Over 100 citations, 期刊高引用量前20论文, 2022年度优秀论文] <br>
+        <strong>Guo Pu</strong>, Wang L, Shen J, et al.<br>
+        https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9147152
+    </td>
+  </tr>  
 
+  <tr>
+    <td style="border: 0px solid white;"><img src="/images/DynTexture.png" alt="图片描述" style="width:1000px;"/></td>
+    <td style="border: 0px solid white;">        
+        <strong>Dynamic Texture Transfer using PatchMatch and Transformers</strong><br>
+        Under Review <br>
+        <strong>Guo Pu</strong>, Shiyao Xu, Xixin Cao, Zhouhui Lian.<br>
+        https://arxiv.org/abs/2402.00606
+    </td>
+  </tr>  
+
+</table>
+
+#### Summary: [4篇CCF-A, 2篇SCI一区] [Total Citations: 200+]
+
+Academic Services
+======
+Conference & Journal Reviewer: Pattern Recognition (PR) (CCF-B), Computers & Graphics (CCF-A).
 
 Patents
 ======
