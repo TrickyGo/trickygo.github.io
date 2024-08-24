@@ -22,7 +22,8 @@ Publications
 ======
 #### Total of 4 CCF-A, 2 SCI一区, 200+ Citations
 
-<table>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+  
   <tr>
     <td style="border: 0px solid white;"><img src="/images/Pano2Room.png" alt="图片描述" style="width:500px;"/></td>
     <td style="border: 0px solid white;">
@@ -30,7 +31,7 @@ Publications
         Pano2Room: Novel View Synthesis from a Single Indoor Panorama<br><br>
         **Guo Pu**, Yiming Zhao, and Zhouhui Lian<br><br>
         ACM SIGGRAPH Asia 2024 (CCF-A)<br><br>
-        https://arxiv.org/pdf/2408.11413 </span>
+        [Link](https://arxiv.org/pdf/2408.11413)
       </h3>
     </td>
   </tr>
@@ -42,7 +43,7 @@ Publications
         SinMPI: Novel View Synthesis from a Single Image with Expanded Multiplane Images<br><br>
         **Guo Pu**, Peng-Shuai Wang, and Zhouhui Lian<br><br>
         ACM SIGGRAPH Asia 2023 (CCF-A)<br><br>
-        https://arxiv.org/pdf/2312.11037
+        [Link](https://arxiv.org/pdf/2312.11037)
       </h3>
     </td>
   </tr>
@@ -55,7 +56,7 @@ Publications
         Controllable Image Synthesis with Attribute-Decomposed GAN<br><br>
         **Guo Pu**, Y. Men, Y. Mao, Y. Jiang, W. -Y. Ma and Z. Lian<br><br>
         IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2022, CCF-A, SCI一区, IF=23.6) <br><br>
-        https://ieeexplore.ieee.org/abstract/document/9741362
+        [Link](https://ieeexplore.ieee.org/abstract/document/9741362) 
       </h3>
     </td>
   </tr>
@@ -67,7 +68,7 @@ Publications
         Aesthetic Text Logo Synthesis via Content-aware Layout Inferring<br><br>
         Y. Wang, **Guo Pu**, and Z. Lian<br><br>
         CVPR 2022 (CCF-A) <br><br>
-        https://arxiv.org/abs/2204.02701
+        [Link](https://arxiv.org/abs/2204.02701)
       </h3>
     </td>
   </tr>  
@@ -79,7 +80,7 @@ Publications
         SSC-OCSVM: A Hybrid Unsupervised Clustering-based Anomaly Detection Method<br><br>
         **Guo Pu**, Wang L, Shen J, et al.<br><br>
         TST 2019 (SCI一区, IF=6.6) [Over 100 citations, 期刊高引用量前20论文, 2022年度优秀论文] <br><br>      
-        https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9147152
+        [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9147152)
       </h3>
     </td>
   </tr>  
@@ -91,11 +92,11 @@ Publications
         <strong>Dynamic Texture Transfer using PatchMatch and Transformers</strong><br><br>
         <strong>Guo Pu</strong>, Shiyao Xu, Xixin Cao, Zhouhui Lian.<br><br>
         Under Review <br><br>
-        https://arxiv.org/abs/2402.00606
+        [Link](https://arxiv.org/abs/2402.00606)
       </h3>
     </td>
   </tr>  
-</table>
+</tbody></table>
 
 
 Academic Services
