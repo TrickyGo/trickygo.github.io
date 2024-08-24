@@ -20,11 +20,11 @@ News
 
 Publications 
 ======
+#### Total of 4 CCF-A, 2 SCI一区, 200+ Citations
 
-
-<table style="border-collapse: collapse; width: 100%;">
+<table>
   <tr>
-    <td style="border: 0px solid white;"><img src="/images/Pano2Room.png" alt="图片描述" style="width:1000px;"/></td>
+    <td style="border: 0px solid white;"><img src="/images/Pano2Room.png" alt="图片描述" style="width:500px;"/></td>
     <td style="border: 0px solid white;">        
         <strong>Pano2Room: Novel View Synthesis from a Single Indoor Panorama</strong><br>
         ACM SIGGRAPH Asia 2024 (CCF-A)<br>
@@ -32,9 +32,9 @@ Publications
         https://arxiv.org/pdf/2408.11413
     </td>
   </tr>
-
+  
   <tr>
-    <td style="border: 0px solid white;"><img src="/images/SinMPI.png" alt="图片描述" style="width:1000px;"/></td>
+    <td style="border: 0px solid white;"><img src="/images/SinMPI.png" alt="图片描述" style="width:500px;"/></td>
     <td style="border: 0px solid white;">        
         <strong>SinMPI: Novel View Synthesis from a Single Image with Expanded Multiplane Images</strong><br>
         ACM SIGGRAPH Asia 2023 (CCF-A)<br>
@@ -42,9 +42,10 @@ Publications
         https://arxiv.org/pdf/2312.11037
     </td>
   </tr>
-  
+
+    
   <tr>
-    <td style="border: 0px solid white;"><img src="/images/ADGANPP.png" alt="图片描述" style="width:1000px;"/></td>
+    <td style="border: 0px solid white;"><img src="/images/ADGANPP.png" alt="图片描述" style="width:500px;"/></td>
     <td style="border: 0px solid white;">        
         <strong>Controllable Image Synthesis with Attribute-Decomposed GAN</strong><br>
         IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2022, CCF-A, SCI一区, IF=23.6) <br>
@@ -53,18 +54,18 @@ Publications
     </td>
   </tr>
 
-  <tr>
-    <td style="border: 0px solid white;"><img src="/images/layoutnet.png" alt="图片描述" style="width:1000px;"/></td>
+   <tr>
+    <td style="border: 0px solid white;"><img src="/images/layoutnet.png" alt="图片描述" style="width:500px;"/></td>
     <td style="border: 0px solid white;">        
         <strong>Aesthetic Text Logo Synthesis via Content-aware Layout Inferring</strong><br>
         CVPR 2022 (CCF-A) <br>
         Y. Wang, <strong>Guo Pu</strong>, and Z. Lian<br>
-        https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Aesthetic_Text_Logo_Synthesis_via_Content-Aware_Layout_Inferring_CVPR_2022_paper.pdf
+        https://arxiv.org/abs/2204.02701
     </td>
   </tr>  
 
   <tr>
-    <td style="border: 0px solid white;"><img src="/images/SSC-OCSVM.png" alt="图片描述" style="width:1000px;"/></td>
+    <td style="border: 0px solid white;"><img src="/images/SSC-OCSVM.png" alt="图片描述" style="width:500px;"/></td>
     <td style="border: 0px solid white;">        
         <strong>A hybrid unsupervised clustering-based anomaly detection method</strong><br>
         TST 2019 (SCI一区, IF=6.6) [Over 100 citations, 期刊高引用量前20论文, 2022年度优秀论文] <br>
@@ -74,7 +75,7 @@ Publications
   </tr>  
 
   <tr>
-    <td style="border: 0px solid white;"><img src="/images/DynTexture.png" alt="图片描述" style="width:1000px;"/></td>
+    <td style="border: 0px solid white;"><img src="/images/DynTexture.png" alt="图片描述" style="width:500px;"/></td>
     <td style="border: 0px solid white;">        
         <strong>Dynamic Texture Transfer using PatchMatch and Transformers</strong><br>
         Under Review <br>
@@ -82,10 +83,10 @@ Publications
         https://arxiv.org/abs/2402.00606
     </td>
   </tr>  
-
 </table>
 
-#### Summary: [4篇CCF-A, 2篇SCI一区] [Total Citations: 200+]
+
+</table>
 
 Academic Services
 ======
@@ -113,10 +114,14 @@ First-class Scholarship of Xidian University. (2018)
 
 Teaching
 ======
-Teaching assistant in the course "AI Introduction" of Peking University, 2022~2023 and 2023~2024.
+Teaching assistant in the "AI Introduction" course of Peking University, 2022-2023 and 2023-2024.
 
 Coding
 ======
-My tensorflow2.0 tutorial Dive-into-DL-TensorFlow2.0 has gained more than 3.8k stars on GitHub.
+### My code has gained more than 3.9k stars on GitHub.
 
 My papers' source codes are available on GitHub.
+
+My tensorflow2.0 tutorial Dive-into-DL-TensorFlow2.0 has gained more than 3.8k stars on GitHub.
+
+
