@@ -101,7 +101,7 @@ Publications
 
 Academic Services
 ======
-Conference & Journal Reviewer: Pattern Recognition (PR) (CCF-B), Computers & Graphics (CCF-A).
+Conference & Journal Reviewer: Pattern Recognition (PR) (CCF-B, SCI一区), Computers & Graphics (CCF-C, SCI四区).
 
 Patents
 ======
