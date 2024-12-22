@@ -91,7 +91,7 @@ Publications
       <h3>
         <strong>Dynamic Texture Transfer using PatchMatch and Transformers</strong><br><br>
         <strong>Guo Pu</strong>, Shiyao Xu, Xixin Cao, Zhouhui Lian.<br><br>
-        Under Review <br><br>
+        Technical Report 2023 <br><br>
         [Link](https://arxiv.org/abs/2402.00606)
       </h3>
     </td>
@@ -105,6 +105,7 @@ Conference & Journal Reviewer: Pattern Recognition (PR) (CCF-B, SCI一区), Comp
 
 Patents
 ======
+连宙辉，蒲果，赵一鸣，一种基于单张全景图像的新视角合成三维重建方法及系统，2024年 （专利，审查中）
 连宙辉，蒲果，徐诗瑶，一种基于样例的动态纹理迁移方法及系统，202111582171.6 ，2022 年 1 月 17 日（专利，已授权）
 
 Competitions
@@ -129,7 +130,7 @@ Teaching assistant in the "AI Introduction" course of Peking University, 2022-20
 
 Coding
 ======
-### My code has gained more than 3.9k stars on GitHub.
+### All my codes has gained 4000+ stars on GitHub.
 
 My papers' source codes are available on GitHub.
 
