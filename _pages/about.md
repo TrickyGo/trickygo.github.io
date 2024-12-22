@@ -106,6 +106,7 @@ Conference & Journal Reviewer: Pattern Recognition (PR) (CCF-B, SCI一区), Comp
 Patents
 ======
 连宙辉，蒲果，赵一鸣，一种基于单张全景图像的新视角合成三维重建方法及系统，2024年 （专利，审查中）
+
 连宙辉，蒲果，徐诗瑶，一种基于样例的动态纹理迁移方法及系统，202111582171.6 ，2022 年 1 月 17 日（专利，已授权）
 
 Competitions
