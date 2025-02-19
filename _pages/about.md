@@ -101,7 +101,17 @@ Publications
 
 Academic Services
 ======
-Conference & Journal Reviewer: Pattern Recognition (PR) (CCF-B, SCI一区), Computers & Graphics (CCF-C, SCI四区).
+Conference & Journal Reviewer: 
+
+TOG (ACM Transactions on Graphics) (CCF-A, SCI一区) 
+
+SIGGRAPH (ACM Special Interest Group on Computer Graphics and Interactive Techniques) (CCF-A)
+
+CVPR (IEEE Conference on Computer Vision and Pattern Recognition) (CCF-A) 
+
+PR (Pattern Recognition) (CCF-B, SCI一区) 
+
+CAG (Computers & Graphics) (CCF-C, SCI四区)
 
 Patents
 ======
