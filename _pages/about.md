@@ -9,18 +9,17 @@ redirect_from:
 ---
 
 I am currently a Ph.D. candidate at the Wangxuan Institute of Computer Technology, Peking University, China, under the supervision of Prof. Zhouhui Lian. 
-I received my master's degree from Peking University, China, in 2022. I received my bachelor's degree from Xidian University, Xi'an, China, in 2019.
+I received my master's degree from Peking University, China, in 2022, and my bachelor's degree from Xidian University, Xi'an, China, in 2019.
 My research interests include computer graphics and computer vision, and I am currently focusing on 3D AIGC and 3D scene reconstruction. 
 
 News
 ======
--Jul. 30, 2024: I have 1 paper conditionally accepted to SIGGRAPH Asia 2024.
+-Jul. 30, 2024: My paper "Pano2Room" was accepted to SIGGRAPH Asia 2024.
 
--Aug. 04, 2023: I have 1 paper conditionally accepted to SIGGRAPH Asia 2023.
+-Aug. 04, 2023: My paper "SinMPI" was accepted to SIGGRAPH Asia 2023.
 
 Publications 
 ======
-#### Total of 4 CCF-A, 2 SCI一区, 200+ Citations
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   
@@ -79,7 +78,7 @@ Publications
       <h3>
         SSC-OCSVM: A Hybrid Unsupervised Clustering-based Anomaly Detection Method<br><br>
         **Guo Pu**, Wang L, Shen J, et al.<br><br>
-        TST 2019 (SCI一区, IF=6.6) [Over 100 citations, 期刊高引用量前20论文, 2022年度优秀论文] <br><br>      
+        TST 2019 (SCI一区, IF=6.6) [Over 200 citations, 期刊高引用量前20论文, 2022年度优秀论文] <br><br>      
         [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9147152)
       </h3>
     </td>
@@ -89,8 +88,8 @@ Publications
     <td style="border: 0px solid white;"><img src="/images/DynTexture.png" alt="图片描述" style="width:500px;"/></td>
     <td style="border: 0px solid white;"> 
       <h3>
-        <strong>Dynamic Texture Transfer using PatchMatch and Transformers</strong><br><br>
-        <strong>Guo Pu</strong>, Shiyao Xu, Xixin Cao, Zhouhui Lian.<br><br>
+        Dynamic Texture Transfer using PatchMatch and Transformers<br><br>
+        **Guo Pu**, Shiyao Xu, Xixin Cao, Zhouhui Lian.<br><br>
         Technical Report 2023 <br><br>
         [Link](https://arxiv.org/abs/2402.00606)
       </h3>
@@ -106,6 +105,8 @@ Conference & Journal Reviewer:
 TOG (ACM Transactions on Graphics) (CCF-A, SCI一区) 
 
 SIGGRAPH (ACM Special Interest Group on Computer Graphics and Interactive Techniques) (CCF-A)
+
+ICCV (IEEE International Conference on Computer Vision) (CCF-A) 
 
 CVPR (IEEE Conference on Computer Vision and Pattern Recognition) (CCF-A) 
 
