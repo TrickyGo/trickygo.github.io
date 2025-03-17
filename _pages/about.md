@@ -106,6 +106,8 @@ TOG (ACM Transactions on Graphics) (CCF-A, SCI一区)
 
 SIGGRAPH (ACM Special Interest Group on Computer Graphics and Interactive Techniques) (CCF-A)
 
+TVCG (IEEE Transactions on Visualization and Computer Graphics) (CCF-A, SCI一区) 
+
 ICCV (IEEE International Conference on Computer Vision) (CCF-A) 
 
 CVPR (IEEE Conference on Computer Vision and Pattern Recognition) (CCF-A) 
