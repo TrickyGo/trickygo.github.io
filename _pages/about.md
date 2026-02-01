@@ -10,10 +10,12 @@ redirect_from:
 
 I am currently a Ph.D. candidate at the Wangxuan Institute of Computer Technology, Peking University, China, under the supervision of Prof. Zhouhui Lian. 
 I received my master's degree from Peking University, China, in 2022, and my bachelor's degree from Xidian University, Xi'an, China, in 2019.
-My research interests include computer graphics and computer vision, and I am currently focusing on 3D AIGC and 3D scene reconstruction. 
+My research interests include computer graphics and computer vision, and I am currently focusing on visual 3D reconstruction and visual SLAM. 
 
 News
 ======
+-Jan. 31, 2026: My paper "ActMVS" was accepted to ICRA 2026.
+
 -Jul. 30, 2024: My paper "Pano2Room" was accepted to SIGGRAPH Asia 2024.
 
 -Aug. 04, 2023: My paper "SinMPI" was accepted to SIGGRAPH Asia 2023.
@@ -24,13 +26,12 @@ Publications
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
   <tr>
-    <td style="border: 0px solid white;"><img src="/images/ActMVS.png" alt="图片描述" style="width:500px;"/></td>
+    <td style="border: 0px solid white;"><img src="/images/ActMVS-Teaser.png" alt="图片描述" style="width:500px;"/></td>
     <td style="border: 0px solid white;">
       <h3>        
         ActMVS: Active Scene Reconstruction with Monocular Multi-View Stereo<br><br>
         **Guo Pu**, Yixuan Han, and Zhouhui Lian<br><br>
-        ACM SIGGRAPH Asia 2024 <br><br>
-        [Link](https://arxiv.org/pdf/2408.11413)
+        ICRA 2026 <br><br>
       </h3>
     </td>
   </tr>
@@ -42,7 +43,7 @@ Publications
       <h3>        
         Pano2Room: Novel View Synthesis from a Single Indoor Panorama<br><br>
         **Guo Pu**, Yiming Zhao, and Zhouhui Lian<br><br>
-        ACM SIGGRAPH Asia 2024 <br><br>
+        SIGGRAPH Asia 2024 <br><br>
         [Link](https://arxiv.org/pdf/2408.11413)
       </h3>
     </td>
@@ -54,7 +55,7 @@ Publications
       <h3>  
         SinMPI: Novel View Synthesis from a Single Image with Expanded Multiplane Images<br><br>
         **Guo Pu**, Peng-Shuai Wang, and Zhouhui Lian<br><br>
-        ACM SIGGRAPH Asia 2023 <br><br>
+        SIGGRAPH Asia 2023 <br><br>
         [Link](https://arxiv.org/pdf/2312.11037)
       </h3>
     </td>
@@ -67,7 +68,7 @@ Publications
       <h3> 
         Controllable Image Synthesis with Attribute-Decomposed GAN<br><br>
         **Guo Pu**, Y. Men, Y. Mao, Y. Jiang, W. -Y. Ma and Z. Lian<br><br>
-        IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2022) <br><br>
+        TPAMI 2022 <br><br>
         [Link](https://ieeexplore.ieee.org/abstract/document/9741362) 
       </h3>
     </td>
