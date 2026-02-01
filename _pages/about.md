@@ -22,6 +22,19 @@ Publications
 ======
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+  <tr>
+    <td style="border: 0px solid white;"><img src="/images/ActMVS.png" alt="图片描述" style="width:500px;"/></td>
+    <td style="border: 0px solid white;">
+      <h3>        
+        ActMVS: Active Scene Reconstruction with Monocular Multi-View Stereo<br><br>
+        **Guo Pu**, Yixuan Han, and Zhouhui Lian<br><br>
+        ACM SIGGRAPH Asia 2024 <br><br>
+        [Link](https://arxiv.org/pdf/2408.11413)
+      </h3>
+    </td>
+  </tr>
+
   
   <tr>
     <td style="border: 0px solid white;"><img src="/images/Pano2Room.png" alt="图片描述" style="width:500px;"/></td>
@@ -29,7 +42,7 @@ Publications
       <h3>        
         Pano2Room: Novel View Synthesis from a Single Indoor Panorama<br><br>
         **Guo Pu**, Yiming Zhao, and Zhouhui Lian<br><br>
-        ACM SIGGRAPH Asia 2024 (CCF-A)<br><br>
+        ACM SIGGRAPH Asia 2024 <br><br>
         [Link](https://arxiv.org/pdf/2408.11413)
       </h3>
     </td>
@@ -41,7 +54,7 @@ Publications
       <h3>  
         SinMPI: Novel View Synthesis from a Single Image with Expanded Multiplane Images<br><br>
         **Guo Pu**, Peng-Shuai Wang, and Zhouhui Lian<br><br>
-        ACM SIGGRAPH Asia 2023 (CCF-A)<br><br>
+        ACM SIGGRAPH Asia 2023 <br><br>
         [Link](https://arxiv.org/pdf/2312.11037)
       </h3>
     </td>
@@ -54,7 +67,7 @@ Publications
       <h3> 
         Controllable Image Synthesis with Attribute-Decomposed GAN<br><br>
         **Guo Pu**, Y. Men, Y. Mao, Y. Jiang, W. -Y. Ma and Z. Lian<br><br>
-        IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2022, CCF-A, SCI一区, IF=23.6) <br><br>
+        IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2022) <br><br>
         [Link](https://ieeexplore.ieee.org/abstract/document/9741362) 
       </h3>
     </td>
@@ -66,7 +79,7 @@ Publications
       <h3>
         Aesthetic Text Logo Synthesis via Content-aware Layout Inferring<br><br>
         Y. Wang, **Guo Pu**, and Z. Lian<br><br>
-        CVPR 2022 (CCF-A) <br><br>
+        CVPR 2022 <br><br>
         [Link](https://arxiv.org/abs/2204.02701)
       </h3>
     </td>
@@ -78,7 +91,7 @@ Publications
       <h3>
         SSC-OCSVM: A Hybrid Unsupervised Clustering-based Anomaly Detection Method<br><br>
         **Guo Pu**, Wang L, Shen J, et al.<br><br>
-        TST 2019 (SCI一区, IF=6.6) [Over 200 citations, 期刊高引用量前20论文, 2022年度优秀论文] <br><br>      
+        TST 2019 <br><br>      
         [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9147152)
       </h3>
     </td>
@@ -102,24 +115,22 @@ Academic Services
 ======
 Conference & Journal Reviewer: 
 
-TOG (ACM Transactions on Graphics) (CCF-A, SCI一区) 
+TOG (ACM Transactions on Graphics)
 
-SIGGRAPH (ACM Special Interest Group on Computer Graphics and Interactive Techniques) (CCF-A)
+SIGGRAPH NA/Asia (ACM Special Interest Group on Computer Graphics and Interactive Techniques) 
 
-TVCG (IEEE Transactions on Visualization and Computer Graphics) (CCF-A, SCI一区) 
+TVCG (IEEE Transactions on Visualization and Computer Graphics) 
 
-ICCV (IEEE International Conference on Computer Vision) (CCF-A) 
+ICCV (IEEE International Conference on Computer Vision) 
 
-CVPR (IEEE Conference on Computer Vision and Pattern Recognition) (CCF-A) 
+CVPR (IEEE Conference on Computer Vision and Pattern Recognition)
 
-PR (Pattern Recognition) (CCF-B, SCI一区) 
+PR (Pattern Recognition) 
 
-CAG (Computers & Graphics) (CCF-C, SCI四区)
+CAG (Computers & Graphics) 
 
 Patents
 ======
-连宙辉，蒲果，赵一鸣，一种基于单张全景图像的新视角合成三维重建方法及系统，2024年 （专利，审查中）
-
 连宙辉，蒲果，徐诗瑶，一种基于样例的动态纹理迁移方法及系统，202111582171.6 ，2022 年 1 月 17 日（专利，已授权）
 
 Competitions
